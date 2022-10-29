@@ -2,7 +2,9 @@
 <h1 align="center">Hi 👋, I'm Othmane Rharraf</h1>
 <h3 align="center">A passionate mobile developer and frontend developer from Morocco</h3>
 
-![image](https://user-images.githubusercontent.com/116924888/198753362-52601360-f820-4622-96bf-e527753320b9.png)
+
+
+![Othmane](https://user-images.githubusercontent.com/116924888/198754999-c6c5fe04-0d12-4b39-b3bd-5a7bb48f6236.png)
 
 
 
