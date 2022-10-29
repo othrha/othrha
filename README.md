@@ -9,8 +9,6 @@
 
 -👀 I’m interested in **programming mobile applications and creating classic websites**
 
-- 🔭 I’m currently working on **Java and Kotlin**
-
 - 🌱 I’m currently learning **Java and Kotlin**
 
 - 👯 I’m looking to collaborate on **a project**
