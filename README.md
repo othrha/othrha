@@ -29,7 +29,7 @@
 - 📫 How to reach me **othmane.work1@gmail.com**
 
 
-<h2>-Hobbies:</h2>
+<h2>Hobbies:</h2>
 
 <p>-✨ Gaming Addict</p>
 <p>-✨ Watching Anime</p>
