@@ -17,7 +17,7 @@
 
 - 💻 You can ou my linkedin at https://www.linkedin.com/in/othmane-rharraf-a657aa245/ 
 
-- 📫 How to reach me **othmane.work1@gmail.com**
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=othrha)](https://github.com/anuraghazra/github-readme-stats)
