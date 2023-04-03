@@ -18,7 +18,7 @@
 
 -👀 I’m interested in **programming mobile applications and creating classic websites**
 
-- 🌱 I’m currently learning **Java and Kotlin and Flutter **
+- 🌱 I’m currently learning **Java and Kotlin and Swift and Flutter**
 
 - 👯 I’m looking to collaborate**with Everyone**
 
