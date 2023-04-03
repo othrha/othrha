@@ -20,7 +20,7 @@
 
 - 🌱 I’m currently learning **Java and Kotlin and Swift and Dart and Flutter**
 
-- 👯 I’m looking to collaborate**with Everyone**
+- 👯 I’m looking to collaborate **with Everyone**
 
 - 👨‍💻 All of my projects are **available at (My Github)**
 
