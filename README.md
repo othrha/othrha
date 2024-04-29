@@ -26,7 +26,7 @@
 
 - ⚡ Fun fact **I'm enjoying this.**
 
-- 📫 How to reach me **othmane.work1@gmail.com**
+- 📫 How to reach me ****
 
 
 <h2>Hobbies:</h2>
