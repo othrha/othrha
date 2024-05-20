@@ -48,7 +48,7 @@
 <h2 align="left">Contact Me ::</h2>
 <p align="left">
 <p>If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
-<a href="https://www.linkedin.com/in/othmane-rharraf-a657aa245/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othmane-rharraf-a657aa245/" height="30" width="40" /></a>
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/othmane-rharraf-a657aa245/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
